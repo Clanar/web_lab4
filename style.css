@@ -1,0 +1,2757 @@
+.landing-page {
+  background-color: #0c0c0c;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page .div {
+  background-color: #0c0c0c;
+  overflow-x: hidden;
+  width: 1440px;
+  height: 7611px;
+  position: relative;
+}
+
+.landing-page .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 455px;
+  top: 7156px;
+  left: 0;
+  background-color: #121212;
+  border-radius: 64px;
+}
+
+.landing-page .logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  position: absolute;
+  top: 79px;
+  left: 122px;
+}
+
+.landing-page .subtract {
+  position: relative;
+  width: 59.85px;
+  height: 63px;
+}
+
+.landing-page .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: 10px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 42px;
+  letter-spacing: -1.68px;
+  line-height: 63px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-2 {
+  position: absolute;
+  top: 157px;
+  left: 365px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-3 {
+  position: absolute;
+  top: 222px;
+  left: 365px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-4 {
+  position: absolute;
+  top: 276px;
+  left: 365px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-5 {
+  position: absolute;
+  width: 150px;
+  top: 103px;
+  left: 365px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #727272;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+}
+
+.landing-page .text-wrapper-6 {
+  position: absolute;
+  width: 208px;
+  top: 103px;
+  left: 587px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #727272;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+}
+
+.landing-page .text-wrapper-7 {
+  position: absolute;
+  width: 203px;
+  top: 103px;
+  left: 867px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #727272;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+}
+
+.landing-page .text-wrapper-8 {
+  position: absolute;
+  top: 157px;
+  left: 867px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-9 {
+  position: absolute;
+  top: 157px;
+  left: 600px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-10 {
+  position: absolute;
+  top: 222px;
+  left: 600px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-11 {
+  position: absolute;
+  top: 276px;
+  left: 600px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-12 {
+  position: absolute;
+  top: 341px;
+  left: 600px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-13 {
+  position: absolute;
+  top: 395px;
+  left: 600px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-14 {
+  position: absolute;
+  top: 222px;
+  left: 868px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-15 {
+  position: absolute;
+  top: 276px;
+  left: 869px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .instagram-link {
+  position: absolute;
+  width: 81px;
+  height: 81px;
+  top: 93px;
+  left: 1097px;
+  background-color: #232323;
+  border-radius: 40.5px;
+}
+
+.landing-page .twitter-link {
+  position: absolute;
+  width: 81px;
+  height: 81px;
+  top: 92px;
+  left: 1186px;
+  background-color: #232323;
+  border-radius: 40.5px;
+}
+
+.landing-page .twitter-icon {
+  position: absolute;
+  width: 36px;
+  height: 29px;
+  top: 26px;
+  left: 24px;
+}
+
+.landing-page .facebook-link {
+  position: absolute;
+  width: 81px;
+  height: 81px;
+  top: 93px;
+  left: 1277px;
+  background-color: #232323;
+  border-radius: 40.5px;
+}
+
+.landing-page .facebook-icon {
+  position: absolute;
+  width: 20px;
+  height: 37px;
+  top: 21px;
+  left: 31px;
+}
+
+.landing-page .overlap-group {
+  position: absolute;
+  width: 1596px;
+  height: 2226px;
+  top: 4278px;
+  left: -78px;
+}
+
+.landing-page .store {
+  position: absolute;
+  width: 1311px;
+  height: 2226px;
+  top: 0;
+  left: 142px;
+  background-color: #121212;
+  border-radius: 64px;
+}
+
+.landing-page .text-wrapper-16 {
+  position: absolute;
+  width: 1596px;
+  top: 61px;
+  left: 0;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 83px;
+  text-align: center;
+  letter-spacing: 0.83px;
+  line-height: 95.4px;
+  white-space: nowrap;
+}
+
+.landing-page .p {
+  position: absolute;
+  width: 1238px;
+  top: 173px;
+  left: 174px;
+  font-family: "Source Sans Pro-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff99;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-17 {
+  position: absolute;
+  top: 2107px;
+  left: 164px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 70px;
+  letter-spacing: -2.8px;
+  line-height: 105px;
+  white-space: nowrap;
+}
+
+.landing-page .buy-button {
+  display: flex;
+  width: 216px;
+  height: 93px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 6px 17px;
+  position: absolute;
+  top: 2108px;
+  left: 1197px;
+  background-color: #1ed760;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.landing-page .text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  margin-top: 10px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #232323;
+  font-size: 55px;
+  letter-spacing: -2.2px;
+  line-height: 79.8px;
+  white-space: nowrap;
+}
+
+.landing-page .raglan {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 232px;
+  left: 142px;
+}
+
+.landing-page .overlap-2 {
+  position: relative;
+  width: 314px;
+  height: 453px;
+  background-color: #232323;
+  border-radius: 64px;
+}
+
+.landing-page .overlap-group-2 {
+  position: relative;
+  height: 32px;
+}
+
+.landing-page .line {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  left: -2px;
+}
+
+.landing-page .img {
+  position: absolute;
+  width: 32px;
+  height: 8px;
+  top: 13px;
+  left: 0;
+}
+
+.landing-page .img-2 {
+  position: absolute;
+  width: 272px;
+  height: 272px;
+  top: 26px;
+  left: 22px;
+  object-fit: cover;
+}
+
+.landing-page .text-wrapper-19 {
+  position: absolute;
+  width: 253px;
+  top: 309px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-20 {
+  position: absolute;
+  width: 89px;
+  top: 390px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-21 {
+  position: absolute;
+  width: 171px;
+  top: 349px;
+  left: 22px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff80;
+  font-size: 17px;
+  letter-spacing: -0.68px;
+  line-height: 25.5px;
+  white-space: nowrap;
+}
+
+.landing-page .t-shirt {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 701px;
+  left: 142px;
+}
+
+.landing-page .text-wrapper-22 {
+  position: absolute;
+  width: 272px;
+  top: 309px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-23 {
+  position: absolute;
+  width: 117px;
+  top: 390px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+  white-space: nowrap;
+}
+
+.landing-page .img-3 {
+  position: absolute;
+  width: 272px;
+  height: 272px;
+  top: 23px;
+  left: 22px;
+  object-fit: cover;
+}
+
+.landing-page .sunglasses {
+  position: absolute;
+  width: 338px;
+  height: 453px;
+  top: 1170px;
+  left: 142px;
+}
+
+.landing-page .overlap-3 {
+  position: relative;
+  width: 332px;
+  height: 453px;
+}
+
+.landing-page .rectangle {
+  width: 314px;
+  height: 453px;
+  top: 0;
+  left: 0;
+  background-color: #232323;
+  position: absolute;
+  border-radius: 64px;
+}
+
+.landing-page .add-button {
+  position: absolute;
+  width: 71px;
+  height: 78px;
+  top: 376px;
+  left: 244px;
+  background: url('img/add-button.png') no-repeat;
+  background-size: cover; /* Підгонюємо розмір зображення */
+  cursor: pointer;
+  transition: filter 0.3s ease; /* Додаємо плавний перехід для ефекту темнішання */
+}
+
+.landing-page .add-button:hover {
+  filter: brightness(70%); /* Зробимо трошки темніше при наведенні */
+}
+
+.landing-page .add-button:active {
+  filter: brightness(50%); /* Зробимо ще темніше при натисканні */
+}
+
+
+
+.landing-page .overlap-group-wrapper {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 398px;
+  left: 263px;
+}
+
+.landing-page .text-wrapper-24 {
+  position: absolute;
+  width: 310px;
+  top: 309px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .vinyl {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 1639px;
+  left: 142px;
+}
+
+.landing-page .text-wrapper-25 {
+  position: absolute;
+  width: 293px;
+  top: 309px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-wrapper {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 232px;
+  left: 474px;
+}
+
+.landing-page .hoodie {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 701px;
+  left: 474px;
+}
+
+.landing-page .sunglasses-2 {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 1170px;
+  left: 474px;
+}
+
+.landing-page .text-wrapper-26 {
+  position: absolute;
+  width: 131px;
+  top: 390px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+  white-space: nowrap;
+}
+
+.landing-page .t-shirt-2 {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 1639px;
+  left: 474px;
+}
+
+.landing-page .text-wrapper-27 {
+  position: absolute;
+  width: 261px;
+  top: 309px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .lunchbox {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 232px;
+  left: 806px;
+}
+
+.landing-page .text-wrapper-28 {
+  position: absolute;
+  width: 267px;
+  top: 309px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-29 {
+  position: absolute;
+  width: 114px;
+  top: 390px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+  white-space: nowrap;
+}
+
+.landing-page .vinyl-2 {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 701px;
+  left: 806px;
+}
+
+.landing-page .hoodie-2 {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 1170px;
+  left: 806px;
+}
+
+.landing-page .bag {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 1639px;
+  left: 806px;
+}
+
+.landing-page .hoodie-3 {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 232px;
+  left: 1138px;
+}
+
+.landing-page .storage {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 701px;
+  left: 1138px;
+}
+
+.landing-page .text-wrapper-30 {
+  position: absolute;
+  width: 259px;
+  top: 309px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.landing-page .USB-drive {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 1170px;
+  left: 1138px;
+}
+
+.landing-page .USB-drive-2 {
+  position: absolute;
+  width: 272px;
+  height: 272px;
+  top: 38px;
+  left: 22px;
+  object-fit: cover;
+}
+
+.landing-page .t-shirt-3 {
+  position: absolute;
+  width: 320px;
+  height: 453px;
+  top: 1639px;
+  left: 1138px;
+}
+
+.landing-page .text-wrapper-31 {
+  position: absolute;
+  width: 107px;
+  top: 390px;
+  left: 22px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-17 {
+  position: absolute;
+  width: 1441px;
+  height: 680px;
+  top: 1423px;
+  left: 0;
+}
+
+.landing-page .numbers {
+  position: absolute;
+  width: 1425px;
+  height: 680px;
+  top: 0;
+  left: 0;
+  background-color: #121212;
+  border-radius: 64px;
+}
+
+.landing-page .some-of-the-most {
+  position: absolute;
+  width: 800px;
+  top: 49px;
+  left: 64px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 70px;
+  letter-spacing: -2.8px;
+  line-height: 105px;
+}
+
+.landing-page .span {
+  color: #ffffff;
+}
+
+.landing-page .text-wrapper-32 {
+  color: #1ed760;
+}
+
+.landing-page .text-wrapper-33 {
+  position: absolute;
+  width: 470px;
+  top: 49px;
+  left: 856px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 88px;
+  letter-spacing: -3.52px;
+  line-height: 132px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-34 {
+  width: 470px;
+  top: 461px;
+  left: 856px;
+  font-family: "Montserrat-Bold", Helvetica;
+  color: #1ed760;
+  font-size: 88px;
+  letter-spacing: -3.52px;
+  line-height: 132px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 700;
+}
+
+.landing-page .element-million {
+  position: absolute;
+  width: 585px;
+  top: 255px;
+  left: 856px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 36px;
+  letter-spacing: -1.44px;
+  line-height: 54px;
+}
+
+.landing-page .text-wrapper-35 {
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 36px;
+  letter-spacing: -1.44px;
+  line-height: 54px;
+}
+
+.landing-page .text-wrapper-36 {
+  font-size: 88px;
+  letter-spacing: -3.52px;
+  line-height: 132px;
+}
+
+.landing-page .text-wrapper-37 {
+  position: absolute;
+  width: 454px;
+  top: 181px;
+  left: 856px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 38px;
+  letter-spacing: -1.52px;
+  line-height: 57px;
+}
+
+.landing-page .text-wrapper-38 {
+  position: absolute;
+  width: 454px;
+  top: 593px;
+  left: 856px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 38px;
+  letter-spacing: -1.52px;
+  line-height: 57px;
+}
+
+.landing-page .text-wrapper-39 {
+  position: absolute;
+  width: 658px;
+  top: 383px;
+  left: 64px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff99;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+}
+
+.landing-page .text-wrapper-40 {
+  position: absolute;
+  width: 454px;
+  top: 387px;
+  left: 856px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 38px;
+  letter-spacing: -1.52px;
+  line-height: 57px;
+}
+
+.landing-page .logo-line {
+  display: flex;
+  width: 1425px;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  top: 1324px;
+  left: 0;
+}
+
+.landing-page .logo-spotify {
+  display: flex;
+  width: 205px;
+  height: 61px;
+  align-items: center;
+  gap: 7px;
+  position: relative;
+}
+
+.landing-page .img-4 {
+  position: relative;
+  width: 59.85px;
+  height: 63px;
+  margin-top: -1px;
+  margin-bottom: -1px;
+}
+
+.landing-page .text-wrapper-41 {
+  position: relative;
+  width: fit-content;
+  margin-top: 10px;
+  margin-right: -7.85px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #1ed760;
+  font-size: 42px;
+  letter-spacing: -1.68px;
+  line-height: 63px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-42 {
+  position: relative;
+  width: fit-content;
+  margin-top: 10px;
+  margin-right: -6.85px;
+  -webkit-text-stroke: 1px #1ed760;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 42px;
+  letter-spacing: -1.68px;
+  line-height: 63px;
+  white-space: nowrap;
+}
+
+.landing-page .slider {
+  position: absolute;
+  width: 1433px;
+  height: 1161px;
+  top: 125px;
+  left: 0;
+  background-color: #121212;
+  border-radius: 64px;
+}
+
+.landing-page .overlap-19 {
+  position: absolute;
+  width: 939px;
+  height: 1116px;
+  top: 22px;
+  left: 74px;
+}
+
+.landing-page .blur {
+  position: absolute;
+  width: 647px;
+  height: 647px;
+  top: 41px;
+  left: 242px;
+  background-color: #7dc6979e;
+  border-radius: 323.5px;
+  filter: blur(500px);
+  opacity: 0.4;
+}
+
+.landing-page .play-millions-of {
+  position: absolute;
+  width: 650px;
+  top: 40px;
+  left: 19px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 71px;
+  letter-spacing: -2.84px;
+  line-height: 106.5px;
+}
+
+.landing-page .GET-button {
+  display: flex;
+  width: 480px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 49px;
+  position: absolute;
+  top: 558px;
+  left: 0;
+  background-color: #1ed760;
+  border-radius: 100px;
+  overflow: hidden;
+  box-shadow: 0px 24px 24px #1ed7601a;
+}
+
+.landing-page .text-wrapper-43 {
+  position: relative;
+  width: fit-content;
+  margin-top: 10px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #232323;
+  font-size: 40px;
+  letter-spacing: -1.6px;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.landing-page .cold-cold-cold {
+  position: absolute;
+  width: 356px;
+  height: 552px;
+  top: 0;
+  left: 582px;
+  background-color: #232323;
+  border-radius: 64px;
+}
+
+.landing-page .song-cover {
+  position: absolute;
+  width: 296px;
+  height: 296px;
+  top: 30px;
+  left: 30px;
+  object-fit: cover;
+}
+
+.landing-page .text-wrapper-44 {
+  position: absolute;
+  width: 267px;
+  top: 346px;
+  left: 30px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: -1.28px;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-45 {
+  width: 191px;
+  top: 390px;
+  left: 30px;
+  position: absolute;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff80;
+  font-size: 17px;
+  letter-spacing: -0.68px;
+  line-height: 25.5px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-20 {
+  position: absolute;
+  width: 313px;
+  height: 37px;
+  top: 418px;
+  left: 30px;
+}
+
+.landing-page .overlap-21 {
+  position: absolute;
+  width: 297px;
+  height: 37px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .trackbar {
+  position: absolute;
+  width: 296px;
+  height: 7px;
+  top: 16px;
+  left: 0;
+}
+
+.landing-page .trackbar-2 {
+  position: absolute;
+  width: 239px;
+  height: 37px;
+  top: 0;
+  left: 1px;
+}
+
+.landing-page .text-wrapper-46 {
+  width: 36px;
+  top: 26px;
+  left: 0;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff80;
+  font-size: 11px;
+  letter-spacing: -0.44px;
+  line-height: 16.5px;
+}
+
+.landing-page .text-wrapper-47 {
+  width: 29px;
+  top: 26px;
+  left: 284px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff80;
+  font-size: 11px;
+  letter-spacing: -0.44px;
+  line-height: 16.5px;
+}
+
+.landing-page .pause {
+  position: absolute;
+  width: 59px;
+  height: 59px;
+  top: 463px;
+  left: 152px;
+}
+
+.landing-page .next {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 479px;
+  left: 238px;
+}
+
+.landing-page .next-2 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 479px;
+  left: 103px;
+}
+
+.landing-page .shuffle {
+  position: absolute;
+  width: 31px;
+  height: 26px;
+  top: 479px;
+  left: 30px;
+}
+
+.landing-page .repeat {
+  position: absolute;
+  width: 30px;
+  height: 28px;
+  top: 478px;
+  left: 304px;
+}
+
+.landing-page .i-need-you {
+  position: absolute;
+  width: 364px;
+  height: 552px;
+  top: 564px;
+  left: 575px;
+}
+
+.landing-page .overlap-22 {
+  position: relative;
+  width: 356px;
+  height: 552px;
+  background-color: #232323;
+  border-radius: 64px;
+}
+
+.landing-page .text-wrapper-48 {
+  position: absolute;
+  width: 237px;
+  top: 346px;
+  left: 30px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: -1.28px;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-49 {
+  width: 178px;
+  top: 392px;
+  left: 30px;
+  position: absolute;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff80;
+  font-size: 17px;
+  letter-spacing: -0.68px;
+  line-height: 25.5px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-23 {
+  position: absolute;
+  width: 316px;
+  height: 37px;
+  top: 420px;
+  left: 27px;
+}
+
+.landing-page .overlap-group-3 {
+  position: absolute;
+  width: 300px;
+  height: 37px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .trackbar-3 {
+  top: 14px;
+  left: 4px;
+  position: absolute;
+  width: 296px;
+  height: 7px;
+}
+
+.landing-page .trackbar-4 {
+  width: 191px;
+  top: 0;
+  position: absolute;
+  height: 37px;
+  left: 0;
+}
+
+.landing-page .text-wrapper-50 {
+  width: 54px;
+  top: 25px;
+  left: 3px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff80;
+  font-size: 11px;
+  letter-spacing: -0.44px;
+  line-height: 16.5px;
+}
+
+.landing-page .text-wrapper-51 {
+  width: 29px;
+  top: 25px;
+  left: 287px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff80;
+  font-size: 11px;
+  letter-spacing: -0.44px;
+  line-height: 16.5px;
+}
+
+.landing-page .next-3 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 479px;
+  left: 239px;
+}
+
+.landing-page .bus-stop {
+  position: absolute;
+  width: 364px;
+  height: 552px;
+  top: 586px;
+  left: 1031px;
+}
+
+.landing-page .overlap-24 {
+  position: absolute;
+  width: 320px;
+  height: 176px;
+  top: 346px;
+  left: 30px;
+}
+
+.landing-page .overlap-25 {
+  position: absolute;
+  width: 320px;
+  height: 176px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .overlap-group-4 {
+  position: absolute;
+  width: 297px;
+  height: 127px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .text-wrapper-52 {
+  position: absolute;
+  width: 191px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: -1.28px;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-53 {
+  width: 140px;
+  top: 46px;
+  left: 0;
+  position: absolute;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff80;
+  font-size: 17px;
+  letter-spacing: -0.68px;
+  line-height: 25.5px;
+}
+
+.landing-page .trackbar-5 {
+  top: 88px;
+  left: 1px;
+  position: absolute;
+  width: 296px;
+  height: 7px;
+}
+
+.landing-page .trackbar-6 {
+  width: 276px;
+  top: 72px;
+  position: absolute;
+  height: 37px;
+  left: 0;
+}
+
+.landing-page .text-wrapper-54 {
+  width: 96px;
+  top: 99px;
+  left: 0;
+  position: absolute;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff80;
+  font-size: 11px;
+  letter-spacing: -0.44px;
+  line-height: 16.5px;
+}
+
+.landing-page .text-wrapper-55 {
+  width: 36px;
+  top: 99px;
+  left: 284px;
+  position: absolute;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff80;
+  font-size: 11px;
+  letter-spacing: -0.44px;
+  line-height: 16.5px;
+}
+
+.landing-page .pause-2 {
+  top: 117px;
+  left: 123px;
+  position: absolute;
+  width: 59px;
+  height: 59px;
+}
+
+.landing-page .next-4 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 133px;
+  left: 205px;
+}
+
+.landing-page .next-5 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 133px;
+  left: 75px;
+}
+
+.landing-page .shuffle-2 {
+  position: absolute;
+  width: 31px;
+  height: 26px;
+  top: 133px;
+  left: 1px;
+}
+
+.landing-page .repeat-2 {
+  position: absolute;
+  width: 30px;
+  height: 28px;
+  top: 132px;
+  left: 275px;
+}
+
+.landing-page .hot-n-cold {
+  position: absolute;
+  width: 364px;
+  height: 552px;
+  top: 22px;
+  left: 1031px;
+}
+
+.landing-page .text-wrapper-56 {
+  position: absolute;
+  width: 242px;
+  top: 346px;
+  left: 30px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: -1.28px;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-57 {
+  position: absolute;
+  width: 155px;
+  top: 392px;
+  left: 30px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff80;
+  font-size: 17px;
+  letter-spacing: -0.68px;
+  line-height: 25.5px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-group-5 {
+  position: absolute;
+  width: 296px;
+  height: 37px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .trackbar-7 {
+  top: 15px;
+  left: 0;
+  position: absolute;
+  width: 296px;
+  height: 7px;
+}
+
+.landing-page .trackbar-8 {
+  width: 63px;
+  top: 0;
+  position: absolute;
+  height: 37px;
+  left: 0;
+}
+
+.landing-page .text-wrapper-58 {
+  width: 31px;
+  top: 27px;
+  left: 0;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff80;
+  font-size: 11px;
+  letter-spacing: -0.44px;
+  line-height: 16.5px;
+}
+
+.landing-page .text-wrapper-59 {
+  width: 29px;
+  top: 27px;
+  left: 284px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff80;
+  font-size: 11px;
+  letter-spacing: -0.44px;
+  line-height: 16.5px;
+}
+
+.landing-page .pause-3 {
+  top: 463px;
+  left: 153px;
+  position: absolute;
+  width: 59px;
+  height: 59px;
+}
+
+.landing-page .next-6 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 479px;
+  left: 235px;
+}
+
+.landing-page .next-7 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 479px;
+  left: 104px;
+}
+
+.landing-page .overlap-26 {
+  position: absolute;
+  width: 1433px;
+  height: 120px;
+  top: 0;
+  left: 0;
+  background-color: #121212;
+  border-radius: 64px;
+}
+
+.landing-page .logo-spotify-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  position: absolute;
+  top: 28px;
+  left: 162px;
+}
+
+.landing-page .text-wrapper-60 {
+  position: absolute;
+  top: 40px;
+  left: 414px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-61 {
+  position: absolute;
+  top: 40px;
+  left: 519px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-62 {
+  position: absolute;
+  top: 40px;
+  left: 674px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-63 {
+  position: absolute;
+  top: 40px;
+  left: 814px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.landing-page .line-2 {
+  position: absolute;
+  width: 4px;
+  height: 50px;
+  top: 42px;
+  left: 978px;
+}
+
+.landing-page .text-wrapper-64 {
+  position: absolute;
+  top: 40px;
+  left: 1019px;
+  color: #ffffff;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-27 {
+  position: absolute;
+  width: 119px;
+  height: 70px;
+  top: 35px;
+  left: 1152px;
+}
+
+.landing-page .sign-in-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 6px 17px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1ed760;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.landing-page .text-wrapper-65 {
+  position: relative;
+  width: fit-content;
+  margin-top: 10px;
+  color: #232323;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 25px;
+  letter-spacing: -1px;
+  line-height: 37.5px;
+  white-space: nowrap;
+}
+
+.landing-page .line-3 {
+  position: absolute;
+  width: 1px;
+  height: 33px;
+  top: 37px;
+  left: 81px;
+  object-fit: cover;
+}
+
+.landing-page .overlap-28 {
+  position: absolute;
+  width: 1334px;
+  height: 767px;
+  top: 3470px;
+  left: 64px;
+}
+
+.landing-page .text-wrapper-66 {
+  position: absolute;
+  width: 1016px;
+  top: 95px;
+  left: 143px;
+  font-family: "Source Sans Pro-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff99;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+}
+
+.landing-page .text-wrapper-67 {
+  position: absolute;
+  width: 1310px;
+  top: 0;
+  left: 0;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 83px;
+  text-align: center;
+  letter-spacing: 0.83px;
+  line-height: 95.4px;
+}
+
+.landing-page .rectangle-2 {
+  width: 315px;
+  height: 601px;
+  top: 166px;
+  left: 0;
+  background-color: #1ed76033;
+  filter: blur(222px);
+  position: absolute;
+  border-radius: 64px;
+}
+
+.landing-page .rectangle-3 {
+  width: 315px;
+  height: 601px;
+  top: 166px;
+  left: 663px;
+  background-color: #1ed76033;
+  filter: blur(222px);
+  position: absolute;
+  border-radius: 64px;
+}
+
+.landing-page .rectangle-4 {
+  width: 315px;
+  height: 601px;
+  top: 166px;
+  left: 332px;
+  background-color: #1ed76033;
+  filter: blur(222px);
+  position: absolute;
+  border-radius: 64px;
+}
+
+.landing-page .rectangle-5 {
+  width: 315px;
+  height: 601px;
+  top: 166px;
+  left: 995px;
+  background-color: #1ed76033;
+  filter: blur(222px);
+  position: absolute;
+  border-radius: 64px;
+}
+
+.landing-page .rectangle-6 {
+  width: 315px;
+  height: 601px;
+  top: 166px;
+  left: 0;
+  background-color: #121212;
+  position: absolute;
+  border-radius: 64px;
+}
+
+.landing-page .rectangle-7 {
+  width: 315px;
+  height: 601px;
+  top: 166px;
+  left: 663px;
+  background-color: #121212;
+  position: absolute;
+  border-radius: 64px;
+}
+
+.landing-page .rectangle-8 {
+  width: 315px;
+  height: 601px;
+  top: 166px;
+  left: 995px;
+  background-color: #121212;
+  position: absolute;
+  border-radius: 64px;
+}
+
+.landing-page .rectangle-9 {
+  width: 315px;
+  height: 601px;
+  top: 166px;
+  left: 332px;
+  background-color: #121212;
+  position: absolute;
+  border-radius: 64px;
+}
+
+.landing-page .name-plan {
+  position: absolute;
+  width: 1180px;
+  height: 57px;
+  top: 190px;
+  left: 30px;
+}
+
+.landing-page .text-wrapper-68 {
+  position: absolute;
+  width: 226px;
+  top: 0;
+  left: 0;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0.45px;
+  line-height: 51.7px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-69 {
+  position: absolute;
+  width: 149px;
+  top: 0;
+  left: 666px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0.45px;
+  line-height: 51.7px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-70 {
+  position: absolute;
+  width: 177px;
+  top: 0;
+  left: 995px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 51.7px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-71 {
+  position: absolute;
+  width: 88px;
+  top: 0;
+  left: 332px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0.45px;
+  line-height: 51.7px;
+  white-space: nowrap;
+}
+
+.landing-page .oportunities {
+  position: absolute;
+  width: 1303px;
+  height: 450px;
+  top: 288px;
+  left: 30px;
+}
+
+.landing-page .text-wrapper-72 {
+  position: absolute;
+  width: 214px;
+  top: 82px;
+  left: 54px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-73 {
+  width: 214px;
+  top: 238px;
+  left: 717px;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+  position: absolute;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.landing-page .text-wrapper-74 {
+  width: 214px;
+  top: 160px;
+  left: 1049px;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+  position: absolute;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.landing-page .text-wrapper-75 {
+  width: 214px;
+  top: 160px;
+  left: 388px;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+  position: absolute;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.landing-page .text-wrapper-76 {
+  position: absolute;
+  width: 214px;
+  top: 160px;
+  left: 715px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-77 {
+  width: 213px;
+  top: 82px;
+  left: 386px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+  position: absolute;
+  font-weight: 700;
+}
+
+.landing-page .text-wrapper-78 {
+  width: 213px;
+  top: 82px;
+  left: 715px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+  position: absolute;
+  font-weight: 700;
+}
+
+.landing-page .text-wrapper-79 {
+  position: absolute;
+  width: 213px;
+  top: 82px;
+  left: 1047px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-80 {
+  position: absolute;
+  width: 214px;
+  top: 160px;
+  left: 54px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-81 {
+  top: 316px;
+  left: 717px;
+  position: absolute;
+  width: 214px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-82 {
+  top: 238px;
+  left: 1049px;
+  position: absolute;
+  width: 214px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-83 {
+  top: 238px;
+  left: 388px;
+  position: absolute;
+  width: 214px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-84 {
+  position: absolute;
+  width: 214px;
+  top: 238px;
+  left: 54px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-85 {
+  top: 394px;
+  left: 717px;
+  position: absolute;
+  width: 214px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-86 {
+  top: 316px;
+  left: 1049px;
+  position: absolute;
+  width: 214px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-87 {
+  top: 316px;
+  left: 388px;
+  position: absolute;
+  width: 214px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.25px;
+  line-height: 28.7px;
+}
+
+.landing-page .text-wrapper-88 {
+  width: 141px;
+  top: 0;
+  left: 0;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 700;
+}
+
+.landing-page .text-wrapper-89 {
+  position: absolute;
+  width: 227px;
+  top: 0;
+  left: 666px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-90 {
+  width: 141px;
+  top: 0;
+  left: 995px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 700;
+}
+
+.landing-page .text-wrapper-91 {
+  width: 141px;
+  top: 0;
+  left: 332px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 700;
+}
+
+.landing-page .price-premium {
+  position: absolute;
+  width: 1188px;
+  height: 38px;
+  top: 246px;
+  left: 30px;
+}
+
+.landing-page .text-wrapper-92 {
+  position: absolute;
+  width: 186px;
+  top: 0;
+  left: 0;
+  font-family: "Source Sans Pro-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff99;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-93 {
+  position: absolute;
+  width: 186px;
+  top: 0;
+  left: 663px;
+  font-family: "Source Sans Pro-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff99;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-94 {
+  position: absolute;
+  width: 186px;
+  top: 0;
+  left: 995px;
+  font-family: "Source Sans Pro-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff99;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-95 {
+  position: absolute;
+  width: 186px;
+  top: 0;
+  left: 332px;
+  font-family: "Source Sans Pro-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff99;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+  white-space: nowrap;
+}
+
+.landing-page .line-4-1 {
+  position: absolute;
+  width: 150px;
+  height: 4px;
+  top: 346px;
+  left: 30px;
+}
+
+.landing-page .line-4-2 {
+  position: absolute;
+  width: 150px;
+  height: 4px;
+  top: 346px;
+  left: 130px;
+}
+
+.landing-page .line-4-3 {
+  position: absolute;
+  width: 150px;
+  height: 4px;
+  top: 346px;
+  left: 365px;
+}
+
+.landing-page .line-4-4 {
+  position: absolute;
+  width: 150px;
+  height: 4px;
+  top: 346px;
+  left: 465px;
+}
+
+.landing-page .line-4-5 {
+  position: absolute;
+  width: 150px;
+  height: 4px;
+  top: 346px;
+  left: 700px;
+}
+
+.landing-page .line-4-6 {
+  position: absolute;
+  width: 150px;
+  height: 4px;
+  top: 346px;
+  left: 800px;
+}
+
+.landing-page .line-4-7 {
+  position: absolute;
+  width: 150px;
+  height: 4px;
+  top: 346px;
+  left: 1035px;
+}
+
+.landing-page .line-4-8 {
+  position: absolute;
+  width: 150px;
+  height: 4px;
+  top: 346px;
+  left: 1135px;
+}
+
+.landing-page .tick1 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 384px;
+  left: 30px;
+}
+
+.landing-page .tick2 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 459px;
+  left: 30px;
+}
+
+.landing-page .tick3 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 534px;
+  left: 30px;
+}
+
+.landing-page .tick4 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 384px;
+  left: 365px;
+}
+
+.landing-page .tick5 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 459px;
+  left: 365px;
+}
+
+.landing-page .tick6 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 534px;
+  left: 365px;
+}
+
+.landing-page .tick7 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 609px;
+  left: 365px;
+}
+
+.landing-page .tick8 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 384px;
+  left: 700px;
+}
+
+.landing-page .tick9 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 459px;
+  left: 700px;
+}
+
+.landing-page .tick10 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 534px;
+  left: 700px;
+}
+
+.landing-page .tick11 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 609px;
+  left: 700px;
+}
+
+.landing-page .tick12 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 684px;
+  left: 700px;
+}
+
+.landing-page .tick13 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 384px;
+  left: 1035px;
+}
+
+.landing-page .tick14 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 459px;
+  left: 1035px;
+}
+
+.landing-page .tick15 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 534px;
+  left: 1035px;
+}
+
+.landing-page .tick16 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 609px;
+  left: 1035px;
+}
+
+.landing-page .text-wrapper-96 {
+  position: absolute;
+  width: 1310px;
+  top: 2124px;
+  left: 64px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 75px;
+  text-align: center;
+  letter-spacing: 0.75px;
+  line-height: 86.2px;
+}
+
+.landing-page .text-wrapper-97 {
+  position: absolute;
+  width: 1238px;
+  top: 2314px;
+  left: 64px;
+  font-family: "Source Sans Pro-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff99;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0.26px;
+  line-height: 29.9px;
+}
+
+.landing-page .icon {
+  position: absolute;
+  width: 366px;
+  height: 497px;
+  top: 2442px;
+  left: 115px;
+}
+
+.landing-page .ellipse {
+  position: absolute;
+  width: 262px;
+  height: 262px;
+  top: 0;
+  left: 0;
+  background-color: #121212;
+  border-radius: 131px;
+}
+
+.landing-page .icon-download {
+  position: absolute;
+  width: 116px;
+  height: 151px;
+  top: 53px;
+  left: 73px;
+}
+
+.landing-page .text-wrapper-98 {
+  position: absolute;
+  top: 302px;
+  left: 0px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 34px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 39.1px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-99 {
+  position: absolute;
+  width: 362px;
+  top: 370px;
+  left: -55px;
+  font-family: "Source Sans Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff99;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+}
+
+.landing-page .icon-2 {
+  position: absolute;
+  width: 375px;
+  height: 497px;
+  top: 2442px;
+  left: 589px;
+}
+
+.landing-page .vector {
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  top: 63px;
+  left: 64px;
+}
+
+.landing-page .text-wrapper-100 {
+  top: 302px;
+  left: -55px;
+  font-size: 34px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 39.1px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.landing-page .text-wrapper-101 {
+  position: absolute;
+  width: 362px;
+  top: 370px;
+  left: -45px;
+  font-family: "Source Sans Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff99;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 34.5px;
+}
+
+.landing-page .icon-3 {
+  position: absolute;
+  width: 366px;
+  height: 497px;
+  top: 2442px;
+  left: 1063px;
+}
+
+.landing-page .group {
+  position: absolute;
+  width: 169px;
+  height: 154px;
+  top: 44px;
+  left: 46px;
+}
+
+.landing-page .text-wrapper-102 {
+  position: absolute;
+  top: 302px;
+  left: 20px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 34px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 39.1px;
+  white-space: nowrap;
+}
+
+.landing-page .icon-4 {
+  position: absolute;
+  width: 366px;
+  height: 497px;
+  top: 2939px;
+  left: 115px;
+}
+
+.landing-page .next-8 {
+  position: absolute;
+  width: 105px;
+  height: 105px;
+  top: 78px;
+  left: 79px;
+}
+
+.landing-page .text-wrapper-103 {
+  position: absolute;
+  top: 302px;
+  left: 0px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 34px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 39.1px;
+  white-space: nowrap;
+}
+
+.landing-page .icon-5 {
+  position: absolute;
+  width: 366px;
+  height: 497px;
+  top: 2939px;
+  left: 589px;
+}
+
+.landing-page .group-2 {
+  position: absolute;
+  width: 202px;
+  height: 167px;
+  top: 32px;
+  left: 30px;
+}
+
+.landing-page .text-wrapper-104 {
+  position: absolute;
+  top: 302px;
+  left: -2px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 34px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 39.1px;
+  white-space: nowrap;
+}
+
+.landing-page .icon-6 {
+  position: absolute;
+  width: 366px;
+  height: 497px;
+  top: 2939px;
+  left: 1063px;
+}
+
+.landing-page .icon-credit-card {
+  position: absolute;
+  width: 132px;
+  height: 95px;
+  top: 76px;
+  left: 65px;
+}
+
+.landing-page .text-wrapper-105 {
+  position: absolute;
+  top: 302px;
+  left: 25px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 34px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 39.1px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-30 {
+  position: absolute;
+  width: 1307px;
+  height: 622px;
+  top: 6514px;
+  left: 66px;
+  background-color: #1ed760;
+  border-radius: 64px;
+}
+
+.landing-page .logo-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  position: absolute;
+  top: 21px;
+  left: 508px;
+}
+
+.landing-page .subtract-2 {
+  position: relative;
+  width: 78px;
+  height: 82px;
+}
+
+.landing-page .text-wrapper-106 {
+  position: relative;
+  width: fit-content;
+  margin-top: 10px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 63px;
+  letter-spacing: -2.52px;
+  line-height: 94.5px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-107 {
+  position: absolute;
+  top: 130px;
+  left: 240px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: -4px;
+  line-height: 150px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-108 {
+  position: absolute;
+  width: 1286px;
+  top: 315px;
+  left: 0;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #0000008f;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -1.44px;
+  line-height: 54px;
+}
+
+.landing-page .image {
+  position: absolute;
+  width: 246px;
+  height: 76px;
+  top: 506px;
+  left: 660px;
+}
+
+.landing-page .image-2 {
+  position: absolute;
+  width: 245px;
+  height: 78px;
+  top: 510px;
+  left: 368px;
+}
